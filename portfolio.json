@@ -1,0 +1,12 @@
+[
+  {"ticker": "SOL", "tipo": "cripto", "cantidad": 0.351093},
+  {"ticker": "MELI", "tipo": "accion", "cantidad": 0.005438},
+  {"ticker": "RKLB", "tipo": "accion", "cantidad": 0.169445},
+  {"ticker": "PAM", "tipo": "accion", "cantidad": 0.054259},
+  {"ticker": "SHEL", "tipo": "accion", "cantidad": 0.05967},
+  {"ticker": "YPF", "tipo": "accion", "cantidad": 0.114007},
+  {"ticker": "RGTI", "tipo": "accion", "cantidad": 0.255066},
+  {"ticker": "BBAR", "tipo": "accion", "cantidad": 0.224031},
+  {"ticker": "GGAL", "tipo": "accion", "cantidad": 0.072011},
+  {"ticker": "MCD", "tipo": "accion", "cantidad": 0.001058}
+]
